@@ -1,9 +1,9 @@
 {
-    "realm": "meu-reino",
+    "realm": "",
     "auth-server-url": "http://localhost:8080/auth",
     "ssl-required": "external",
-    "resource": "meu-cliente",
+    "resource": "",
     "credentials": {
-      "secret": "minha-secreta"
+      "secret": "secret"
     }
   }
